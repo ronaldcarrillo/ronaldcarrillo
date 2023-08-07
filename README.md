@@ -1,18 +1,24 @@
-### Mi nombre es Ronald Carrillo ![donkey_1facf](https://github.com/ronaldcarrillo/ronaldcarrillo/assets/66338914/e0491c9b-63ca-461a-8b77-afb23479e682)
+# 💫 About Me:
+🧑‍💻 Soy Ingeniero de Sistemas<br>💻 Tecnólogo en Análisis y Desarrollo de Sistemas de Información (SENA)<br>🌱 Trabajo como agente de mesa de servicio Nivel II - Telefónica - SENA<br>👯 Aprendiz de Desarrollo WEB en [Steam Academy](https://www.steamacademy.com.co/)<br>🪗 Acordeonero aficionado<br>📚 Me gusta la lectura
 
 
-- 💻 Soy Tecnólogo en Análisis y Desarrollo de Sistemas de Información
-- 🌱 Trabajo como agente de mesa de servicio Nivel II - Telefónica - SENA
-- 👯 Aprendiz de Desarrollo WEB en [Steam Academy](https://www.steamacademy.com.co/)
-- 🪗 Acordeonero aficionado
-- 📚 Me gusta la lectura
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ronald-carrillo-839555106) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ronald_carrillo) 
 
-**Lenguajes**
-<div>
-<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" style="width:3pc;padding-right:5px">
-<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/250px-CSS3_logo_and_wordmark.svg.png" style="width:2pc;padding-right:5px">
-<img src ="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" style="width:2pc;padding-right:5px">
-<img src ="https://cms.rootstack.com/sites/default/files/inline-images/Python-Symbol_0.png" style="width:5pc;padding-right:5px">
-<img src ="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" style="width:5pc;padding-right:5px">
-<img src ="https://miro.medium.com/v2/resize:fit:1358/0*EROTUI8Yq28Oa3da.png" style="width:4pc">
-</div>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ronaldcarrillo &theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ronaldcarrillo &theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldcarrillo &theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ronaldcarrillo &limit=5&theme=alduin&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ronaldcarrillo &icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
